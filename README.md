@@ -1,52 +1,52 @@
-# 🌐 Pratiksinh Chauhan - Developer Portfolio
+# 🧮 Simple Calculator
 
-Welcome to my personal developer portfolio website!
+This is a basic web-based calculator built using *HTML, CSS, and JavaScript*.
 
-This landing page is inspired by clean, minimal UI design to showcase my skills, contact details, and important links. Built using pure HTML and CSS.
+It allows you to perform simple arithmetic operations like:
 
-## 🔥 Highlights
-
-- 💼 Personal bio & call to action
-- 📱 QR code section for quick access
-- 📲 Mobile UI-styled image section
-- 🎨 Smooth design inspired by Flashfood
-- ⚡ Fully responsive and GitHub Pages-ready
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
+- 🧼 Clear and reset input
 
 ---
 
-Replace with your live GitHub Pages link after deployment.
+## 🔧 Tech Used
+
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript
 
 ---
 
-## 📁 Project Structure
+## 🚀 How to Run
 
-┣ 📄 index.html
-┣ 📄 README.md
+1. Download or clone the repository.
+2. Open task3.html in any web browser.
+3. Use the calculator on screen!
+
+---
+VEDTEIX technology:- https://www.instagram.com/vedteix?igsh=dndzdDUzeHdvdWRx&utm_source=qr 
+
+
+--- 
+
+## 👤 Author
+
+*Pratiksinh Chauhan*  
+📧 Email: pratiksinh4645@gmail.com  
+📱 Phone: +91 7862811461  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pratiksinh-chauhan-3a6865371)
 
 ---
 
-## 📲 Contact Me
+## 📌 Credits
 
-- 📧 Email: [pratiksinh4645@gmail.com](mailto:pratiksinh4645@gmail.com)
-- 📞 Phone: +91 7862811461
-- 🔗 LinkedIn: [linkedin.com/in/pratiksinh-chauhan](https://www.linkedin.com/in/pratiksinh-chauhan-3a6865371)
+Made with ❤ by Pratiksinh | Powered by *VEDTEIX*
 
 ---
 
-## 🛠 Tech Stack
+## 🆓 License
 
-- HTML5
-- CSS3
-- Responsive Web Design
-- GitHub Pages
-
----
-
-## 📌 License
-
-This project is open-source and free to use. Feel free to fork or clone and build your own version!
-
----
-
-> Built with ❤ by [Pratiksinh Chauhan](mailto:pratiksinh4645@gmail.com)
- 
+This project is free to use. You can copy, modify, or share it.
