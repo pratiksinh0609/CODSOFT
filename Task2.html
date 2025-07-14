@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    #about img {
+      width: 150px;
+      border-radius: 50%;
+      margin-right: 20px;
+    }
+
+    #about {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    #about p {
+      flex: 1;
+    }
+
+    h2 {
+      color: #4a90e2;
+      margin-bottom: 20px;
+    }
+
+    .skills ul, .contact ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .skills li, .contact li {
+      background: #eee;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 4px;
+    }
+
+    .projects .project {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+    }
+
+    .projects .project img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+
+    .resume a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4a90e2;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    @media (max-width: 600px) {
+      #about {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      #about img {
+        margin-bottom: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p>Web Developer | Designer | Coder</p>
+  </header>
+
+  <section id="about">
+    <img src="https://via.placeholder.com/150" alt="Your Photo" />
+    <p>
+      Hello! I'm a passionate web developer with experience in building responsive websites and web apps.
+      I enjoy turning complex problems into simple, beautiful designs. Let's build something amazing together!
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+      <li>Responsive Design</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Project One</h3>
+      <img src="https://via.placeholder.com/600x300" alt="Project 1" />
+      <p>This is a description of my first project. It demonstrates my skills in frontend development.</p>
+    </div>
+    <div class="project">
+      <h3>Project Two</h3>
+      <img src="https://via.placeholder.com/600x300" alt="Project 2" />
+      <p>This is another cool project that showcases my ability to solve real-world problems with code.</p>
+    </div>
+  </section>
+
+  <section class="resume">
+    <h2>Resume</h2>
+    <a href="resume.pdf" download>Download My Resume (PDF)</a>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: your.email@example.com</li>
+      <li>Phone: +123 456 7890</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
